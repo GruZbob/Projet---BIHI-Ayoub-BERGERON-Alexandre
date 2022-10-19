@@ -4,13 +4,13 @@
 - Dans un premier temps, s'assurer d'être sur un système Windows
 
 
-- Télécharger le fichier .zip "Pokedex V3.0.zip" depuis le répertoire courant ou depuis ce [lien](https://www.mediafire.com/file/a5sdscyt4vsdcpb/Pokedex_V3.0.zip/file)
+- Télécharger le fichier .zip "Pokedex V3.0.zip" depuis ce [lien](https://www.mediafire.com/file/a5sdscyt4vsdcpb/Pokedex_V3.0.zip/file) (le fichier .zip étant lui même trop lourd pour être mis sur github)
 
 
 - Décompresser l'archive dans le dossier souhaité
 
 
-- Exécuter le fichier "
+- Exécuter le fichier "Pokédex V3.0.exe" pour lancer le programme.
 
 
 # Comment marche le Pokedex ?
@@ -32,3 +32,9 @@ Le Pokedex a plusieurs modes de fonctionnement :
 
 
 - **Vous pouvez combiner tous les modes de recherche** : vous pouvez chercher par exemple tous les Pokémon de type feu pur ayant le motif "au" dans leur nom et la liste voulue s'affichera.
+
+
+# Comment voir le code Python du projet ?
+
+
+Cliquez [ici](https://www.mediafire.com/file/12430aig7gbzlf1/Pokedex_V3.0_%2528python%2529.zip/file) pour obtenir le fichier contenant le projet sous forme de fichiers .py
