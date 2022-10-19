@@ -10,4 +10,7 @@
 - Décompresser l'archive dans le dossier souhaité
 
 
--
+- Ouvrir le fichier 
+
+
+# Comment marche le Pokedex ?
