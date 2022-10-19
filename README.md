@@ -37,4 +37,7 @@ Le Pokedex a plusieurs modes de fonctionnement :
 # Comment voir le code Python du projet ?
 
 
-Cliquez [ici](https://www.mediafire.com/file/12430aig7gbzlf1/Pokedex_V3.0_%2528python%2529.zip/file) pour obtenir le fichier contenant le projet sous forme de fichiers .py
+Cliquez [ici](https://www.mediafire.com/file/12430aig7gbzlf1/Pokedex_V3.0_%2528python%2529.zip/file) pour obtenir le fichier .zip contenant le projet sous forme de fichiers .py
+
+
+## Les liens de téléchargement sont fournis car GitHub permet l'upload de fichiers ayant pour capacité maximum **25 Mo**, les fichiers .zip faisant ~ 125 Mo.
